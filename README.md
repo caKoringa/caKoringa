@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in making apps.
 - 🌱 I’m currently learning web development.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Aim Enthusiast
 
 <!---
